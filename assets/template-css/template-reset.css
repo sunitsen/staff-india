@@ -1,0 +1,40 @@
+ @font-face {
+     font-family: myFirstFont;
+     src: url('../vendors/font-family/OrelegaOne-Regular.ttf');
+ }
+ 
+ body {
+     margin: 0 !important;
+     padding: 0 !important;
+     box-sizing: border-box;
+     position: relative;
+     font-family: 'Orelega One', cursive;
+     font-family: 'Poppins', sans-serif;
+     /* background: #798497; */
+ }
+ 
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p,
+ a,
+ strong,
+ span,
+ small,
+ ul {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ a {
+     text-decoration: none !important;
+ }
+ 
+ ul {
+     list-style: none;
+ }
+ /*--=== custom container===*/
+ /*---=====Template color=====----*/
